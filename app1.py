@@ -75,8 +75,6 @@ Empowering students to become leaders, innovators, and entrepreneurs.
 📍 Hyderabad, India  
 🌐 www.mahindrauniversity.edu.in
 """)
-```
-
 Run it with:
 
 ```bash
