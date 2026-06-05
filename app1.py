@@ -1,6 +1,3 @@
-If you want a simple **Hello World Streamlit app** for Mahindra University, create a file named `app.py`:
-
-```python
 import streamlit as st
 
 st.title("Hello, World!")
@@ -34,7 +31,3 @@ name = st.text_input("Enter your name")
 
 if name:
     st.success(f"Hello, {name}! Welcome to Mahindra University.")
-```
-
-This version includes a text box and greets the user by name.
-Debopam
