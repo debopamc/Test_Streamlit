@@ -2,9 +2,7 @@ import streamlit as st
 
 st.title("Hello, World!")
 st.write("Welcome to Mahindra University!")
-```
-
-Run it with:
+`Run it with:
 
 ```bash
 pip install streamlit
